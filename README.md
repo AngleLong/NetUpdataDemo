@@ -251,6 +251,3 @@ Java_com_angle_netupdatademo_MainActivity_bsPath(JNIEnv *env, jobject instance, 
 ### 4. 遇到的一些问题
 
 - 如果版本跨度太大的话，可以直接更新相应的apk安装包。不需要差分包了！很好理解，版本跨度过大的情况，差分包和新包没有什么区别，不需要做差分了！
-
-
-#### 5. Demo地址
