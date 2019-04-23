@@ -19,7 +19,7 @@
 
 - 1.1 [bsdiff-4.3下载地址(用于生成新的安装包)](http://www.daemonology.net/bsdiff/)
 
-![](https://github.com/AngleLong/NetUpdataDemo/blob/master/images/16a4858c3c4d2313.png) 
+![](https://github.com/AngleLong/NetUpdataDemo/blob/master/images/16a48379bd17abfe.png) 
 
 - 1.2 bzip2-1.0.6 用于补充bsdiff中c的缺失代码
 - 1.3 bsdiff-v4.3-win-x64 用于生成相应的差异包
@@ -49,8 +49,7 @@ OBJS= blocksort.o  \
 
 对需要的就是这些文件！我把我导入的文件的示意图放上了，按照名称直接导入就好了！
 
-![](https://github.com/AngleLong/NetUpdataDemo/blob/master/images/16a48379bd17abfe.png) 
-
+![](https://github.com/AngleLong/NetUpdataDemo/blob/master/images/16a4858c3c4d2313.png) 
 
 这里面有一些坑需要踩：
 1. 在导入bzlib.h文件的时候，android studio3.+和之前的有区别(看那个不报错用哪个吧)：
